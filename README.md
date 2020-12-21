@@ -1,14 +1,14 @@
 
 # Hi there, I'm Ismail Bouroummana , I'm Happy to see you here! 👋
 <br />
-
+---
 ### Connect with me:
 
 [<img align="left" alt="ibouroum | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ibouroum | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ibouroum | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ibouroum | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
+<br />
 
 ## 1337 School student, Full Stack Web Developer 
 
