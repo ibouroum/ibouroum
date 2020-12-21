@@ -9,8 +9,6 @@
 
 ## 1337 School student, Full Stack Web Developer 
 
-### Talking about Personal Stuffs:
-
 **Currently I am actively looking for a new opportunity.**
 - 🔭 I have a bachelor's degree in mathematical and computer science
 - 🌱 I'm currently studying at 1337 School
@@ -19,7 +17,7 @@
 - Self-taught
 - Teamwork
 - Analytical skills
-+ Strict
+- Strict
 ### Languages and Tools:
 
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
