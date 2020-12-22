@@ -6,10 +6,6 @@
 [<img align="left" alt="ibouroum | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ibouroum | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<br /><br /><br />
-
-[![Ibouroum github stats](https://github-readme-stats.vercel.app/api?username=ibouroum&show_icons=true&theme=shades-of-purple)](https://github.com/ibouroum/github-readme-stats)
-
 ## 1337 School student, Full Stack Web Developer 
 
 **Currently I am actively looking for a new opportunity.**
@@ -38,6 +34,22 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+
+<a href="https://github.com/ibouroum">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibouroum&show_icons=true&theme=shades-of-purple&line_height=60" alt="Ibouroum github stats"/>
+</a>
+
+<a href="https://github.com/ibouroum">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibouroum&theme=shades-of-purple" alt="Most Used Languages"/>
+</a>
+
+
+<a href="https://github.com/ibouroum/Matcha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibouroum&repo=Matcha&theme=shades-of-purple" />
+</a>
+<a href="https://github.com/ibouroum/Hypertube">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibouroum&repo=Hypertube&theme=shades-of-purple" />
+</a>
 
 [twitter]: https://twitter.com/IBouroummana
 [instagram]: https://www.instagram.com/mailisbo/
