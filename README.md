@@ -36,19 +36,18 @@
 
 
 <a href="https://github.com/ibouroum">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibouroum&show_icons=true&theme=shades-of-purple&line_height=60" alt="Ibouroum github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibouroum&show_icons=true&theme=light&line_height=40" alt="Ibouroum github stats"/>
 </a>
 
 <a href="https://github.com/ibouroum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibouroum&theme=shades-of-purple" alt="Most Used Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibouroum&theme=light" alt="Most Used Languages"/>
 </a>
-
 
 <a href="https://github.com/ibouroum/Matcha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibouroum&repo=Matcha&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibouroum&repo=Matcha&theme=light" />
 </a>
 <a href="https://github.com/ibouroum/Hypertube">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibouroum&repo=Hypertube&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibouroum&repo=Hypertube&theme=light" />
 </a>
 
 [twitter]: https://twitter.com/IBouroummana
