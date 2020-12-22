@@ -6,7 +6,10 @@
 [<img align="left" alt="ibouroum | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ibouroum | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br />
+div align="center">
 ## 1337 School student, Full Stack Web Developer 
+</div>
+
 
 **Currently I am actively looking for a new opportunity.**
 - 🔭 I have a bachelor's degree in mathematical and computer science
