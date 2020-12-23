@@ -8,6 +8,8 @@
 <br />
 <div align="center">
  
+ [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=ibouroum)](https://github.com/ibouroum)
+ 
 ### 1337 School student, Full Stack Web Developer 
 
 </div>
