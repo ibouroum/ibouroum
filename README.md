@@ -17,7 +17,7 @@
 
 - 🔭 I have a Master's degree in Big Data and cloud couputing
 - 🌱 I'm currently studying at 1337 School
-- 👯 I am a full stack web developer specializing in JavaScript frameworks.
+- 👯 I am a web developer specializing in JavaScript frameworks.
 - 🥅 Passionate about the world of the web and new technologies.
 - Self-taught
 - Teamwork
