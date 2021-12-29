@@ -10,12 +10,12 @@
  
  [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=ibouroum)](https://github.com/ibouroum)
  
-### 1337 School student, Full Stack Web Developer 
 
 </div>
 
-**Currently I am actively looking for a new opportunity.**
-- 🔭 I have a bachelor's degree in mathematical and computer science
+**Currently I am actively looking for a new opportunity in Data science.**
+
+- 🔭 I have a Master's degree in Big Data and cloud couputing
 - 🌱 I'm currently studying at 1337 School
 - 👯 I am a full stack web developer specializing in JavaScript frameworks.
 - 🥅 Passionate about the world of the web and new technologies.
