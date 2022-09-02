@@ -13,7 +13,7 @@
 
 </div>
 
-**Currently I am actively looking for a new opportunity in Data science.**
+**Currently I am actively looking for a new opportunity.**
 
 - 🔭 I have a Master's degree in Big Data and cloud couputing
 - 🌱 I'm currently studying at 1337 School
