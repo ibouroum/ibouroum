@@ -15,7 +15,7 @@
 
 **Currently I am actively looking for a new opportunity.**
 
-- 🔭 I have a Master's degree in Big Data and cloud couputing
+- 🔭 I have a Master's degree in Big Data and cloud computing
 - 🌱 I'm currently studying at 1337 School
 - 👯 I am a web developer specializing in JavaScript frameworks.
 - 🥅 Passionate about the world of the web and new technologies.
