@@ -12,17 +12,13 @@
  
 
 </div>
-
-**Currently I am actively looking for a new opportunity.**
-
-- 🔭 I have a Master's degree in Big Data and cloud computing
-- 🌱 I'm currently studying at 1337 School
-- 👯 I am a web developer specializing in JavaScript frameworks.
+** Frontend Developer **
+- Passionate frontend developer with a Master’s degree in Big Data and a certification from 1337 School (42 Network), where I built strong programming skills—from system-level foundations (C, PHP, JavaScript) to advanced frameworks (React.js, Node.js, Express.js). 
+- With over 3 years of experience in the banking sector, I design high-performance applications while adhering to Clean Code and DRY principles.**
 - 🥅 Passionate about the world of the web and new technologies.
 - Self-taught
 - Teamwork
 - Analytical skills
-- Strict
 
 ### Languages and Tools:
 
@@ -48,6 +44,10 @@
 
 <a href="https://github.com/ibouroum">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibouroum&theme=light" alt="Most Used Languages"/>
+</a>
+
+<a href="https://github.com/Maiichi/ft_transcendence">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibouroum&repo=Maiichi/ft_transcendence&theme=light" />
 </a>
 
 <a href="https://github.com/ibouroum/Matcha">
