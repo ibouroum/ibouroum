@@ -8,13 +8,12 @@
 <br />
 <div align="center">
  
- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=ibouroum)](https://github.com/ibouroum)
  
 
 </div>
-** Frontend Developer **
-- Passionate frontend developer with a Master’s degree in Big Data and a certification from 1337 School (42 Network), where I built strong programming skills—from system-level foundations (C, PHP, JavaScript) to advanced frameworks (React.js, Node.js, Express.js). 
-- With over 3 years of experience in the banking sector, I design high-performance applications while adhering to Clean Code and DRY principles.**
+** Frontend Developer ** <br />
+- Passionate frontend developer with a Master’s degree in Big Data and a certification from 1337 School (42 Network), where I built strong programming skills—from system-level foundations (C, PHP, JavaScript) to advanced frameworks (React.js, Node.js, Express.js). <br />
+- With over 3 years of experience in the banking sector, I design high-performance applications while adhering to Clean Code and DRY principles.
 - 🥅 Passionate about the world of the web and new technologies.
 - Self-taught
 - Teamwork
@@ -47,7 +46,7 @@
 </a>
 
 <a href="https://github.com/Maiichi/ft_transcendence">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibouroum&repo=Maiichi/ft_transcendence&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibouroum&repo=ft_transcendence&theme=light" />
 </a>
 
 <a href="https://github.com/ibouroum/Matcha">
