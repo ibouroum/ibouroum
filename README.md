@@ -11,13 +11,13 @@
  
 
 </div>
-** Frontend Developer ** <br />
+** Frontend Developer ** <br /> <br />
 - Passionate frontend developer with a Master’s degree in Big Data and a certification from 1337 School (42 Network), where I built strong programming skills—from system-level foundations (C, PHP, JavaScript) to advanced frameworks (React.js, Node.js, Express.js). <br />
-- With over 3 years of experience in the banking sector, I design high-performance applications while adhering to Clean Code and DRY principles.
-- 🥅 Passionate about the world of the web and new technologies.
-- Self-taught
-- Teamwork
-- Analytical skills
+- With over 3 years of experience in the banking sector, I design high-performance applications while adhering to Clean Code and DRY principles. <br />
+- 🥅 Passionate about the world of the web and new technologies. <br />
+- Self-taught <br />
+- Teamwork <br />
+- Analytical skills <br /> <br />
 
 ### Languages and Tools:
 
